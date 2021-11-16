@@ -1,0 +1,1 @@
+My goals for this project are to demonstrate what I've learned within the HTML basics portion of TOP Foundations.
