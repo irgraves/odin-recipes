@@ -1,0 +1,1 @@
+Hello! This is my second time starting the Odin Project! During this project I will demonstrate all I have learned so far in HTML! I will demonstrate how to create an html website that has relative links to different pages, images, lists, and a variety of text attributes!
