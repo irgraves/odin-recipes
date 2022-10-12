@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    background-color: royalblue;
+    font-family: 'Courier New', Courier, monospace;
+    color: blueviolet;
+}
+ul {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+body {
+    background-color: black;
+}
