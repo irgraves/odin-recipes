@@ -1,0 +1,22 @@
+h1 {
+    color: blueviolet;
+}
+img {
+    height: auto;
+    width: 200px;
+    
+}
+body {
+    background-color:lightcoral;
+}
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align: center;
+}
+li {
+color: aqua;
+}
+h3 {
+    color: white;
+}
